@@ -1,0 +1,8 @@
+{
+  "name": "Pixel Ride - Premium Taxi Booking Showcase",
+  "description": "An interactive, mobile-first taxi booking showcase application for Dubai & UAE routes, featuring simulated live maps, ride dispatching, fare calculations, and PWA capabilities. Developed by Pixel Syntax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
